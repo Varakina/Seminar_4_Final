@@ -1,0 +1,9 @@
+address: https://test-stand.gb.ru
+sleep_time: 1
+browser: firefox
+username: Oleggov666
+password: 256ec8af00
+bad_login: ttttt
+name: Dmitriy Leonov
+email: d.leonov@yandex.ru
+content: Test text
